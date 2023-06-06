@@ -7,10 +7,7 @@
 - <b>Unity™ Project (C# and Google App Script)</b>
   - [Match It](https://github.com/EnzoMassyle/Match-It)
 - <b>Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Pomodoro Timer](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>C++</b>
   - [Semantic Dictionary](https://github.com/joshmadakor1/EncrypterPOC)
 
