@@ -1,4 +1,4 @@
-<h1>Hi I'm Enzo, a Senior EECS Student @ UC Berkeley!
+<h1>Hi I'm Enzo, a Senior EECS Student @ UC Berkeley! [<img align="right" alt="EnzoMassyle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/enzo-massyle)
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
@@ -21,7 +21,7 @@
 
 <h2> 🤳 Connect with me!</h2>
 
-[<img align="left" alt="EnzoMassyle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/enzo-massyle)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
