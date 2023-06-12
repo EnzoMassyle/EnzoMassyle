@@ -1,6 +1,4 @@
-# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley! [Resume Here](https://drive.google.com/file/d/1RRVP4PMIyxzf3QqMBEaXwW1EF8F6W53o/view?usp=sharing)   
-
-
+# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley!  
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
@@ -18,6 +16,9 @@
 
 ## 🤳 Connect with me!
 [<img align = "left" width = "50" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png">](https://www.linkedin.com/in/enzo-massyle/) [<img align = "left" width = "80" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png">](mailto:enzo.massyle@berkeley.edu)
+<br /> 
+<br />
+## [Resume Here](https://drive.google.com/file/d/1RRVP4PMIyxzf3QqMBEaXwW1EF8F6W53o/view?usp=sharing)  
 
 
 
