@@ -1,7 +1,6 @@
 <h1>Hi I'm Enzo, a Senior EECS Student @ UC Berkeley! 
  [<img align="right" alt="EnzoMassyle | LinkedIn" width="100px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" />](https://www.linkedin.com/in/enzo-massyle)
-
- [https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png)](http://google.com.au/)
+[![Foo](https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png)](https://www.linkedin.com/in/enzo-massyle))
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
