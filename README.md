@@ -1,7 +1,7 @@
 <h1>Hi I'm Enzo, a Senior EECS Student @ UC Berkeley! 
-[![Foo](https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png)](https://www.linkedin.com/in/enzo-massyle)
- 
- [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
+[<img src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png">](http://google.com.au/)
+
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
