@@ -9,7 +9,7 @@
 - <b>Python</b>
   - [Pomodoro Timer](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>C++</b>
-  - [Semantic Dictionary](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Semantic Dictionary](https://github.com/EnzoMassyle/SemanticDictionary)
 
 
 
