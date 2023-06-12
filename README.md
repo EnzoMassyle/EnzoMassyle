@@ -1,4 +1,4 @@
-# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley! [Resume Here] (https://drive.google.com/file/d/1RRVP4PMIyxzf3QqMBEaXwW1EF8F6W53o/view?usp=sharing)   
+# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley! [Resume Here](https://drive.google.com/file/d/1RRVP4PMIyxzf3QqMBEaXwW1EF8F6W53o/view?usp=sharing)   
 
 
 
