@@ -1,4 +1,4 @@
-# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley!   [<img align = "right" width = "75" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" >](https://www.linkedin.com/in/enzo-massyle/)
+# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley!   
 
 
 
@@ -22,6 +22,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me!</h2>
+[<img align = "left" width = "75" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" >](https://www.linkedin.com/in/enzo-massyle/)
 
 
 
