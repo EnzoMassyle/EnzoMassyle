@@ -1,6 +1,6 @@
-<h1>Hi I'm Enzo, a Senior EECS Student @ UC Berkeley! 
+# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley!   [<img align = "center" width = "50" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" >](https://www.linkedin.com/in/enzo-massyle/)
 
-[<img src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png">](https://www.linkedin.com/in/enzo-massyle/)
+
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
