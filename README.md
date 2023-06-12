@@ -1,4 +1,4 @@
-# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley!   [<img align = "center" width = "50" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" >](https://www.linkedin.com/in/enzo-massyle/)
+# Hi I'm Enzo, a Senior EECS Student @ UC Berkeley!   [<img align = "right" width = "75" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" >](https://www.linkedin.com/in/enzo-massyle/)
 
 
 
