@@ -2,7 +2,7 @@
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (LeetCode)</b>
+- <b>Data Structures and Algorithms Practice (Java & Python)</b>
   - [Algo & DS Practice](https://github.com/EnzoMassyle/LeetCode-Algos-DS)
 - <b>Unity™ Project (C# and Google App Script)</b>
   - [Match It](https://github.com/EnzoMassyle/Match-It)
