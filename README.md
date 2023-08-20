@@ -18,7 +18,7 @@
 [<img align = "left" width = "50" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png">](https://www.linkedin.com/in/enzo-massyle/) [<img align = "left" width = "80" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png">](mailto:enzo.massyle@berkeley.edu)
 <br /> 
 <br />
-## [Resume Here](https://drive.google.com/file/d/1RRVP4PMIyxzf3QqMBEaXwW1EF8F6W53o/view?usp=sharing)  
+## [Resume Here]([https://drive.google.com/file/d/1RRVP4PMIyxzf3QqMBEaXwW1EF8F6W53o/view?usp=sharing](https://drive.google.com/file/d/1UtFiye1DNmeNZgk6wP-c8pD6nTgbQg-7/view?usp=sharing))  
 
 
 
