@@ -7,7 +7,7 @@
 - <b>Unity™ Project (C# and Google App Script)</b>
   - [Match It](https://github.com/EnzoMassyle/Match-It)
 - <b>Python</b>
-  - [Pomodoro Timer](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Pomodoro Timer](https://github.com/EnzoMassyle/PomodoroTimer)
 - <b>C++</b>
   - [Semantic Dictionary](https://github.com/EnzoMassyle/SemanticDictionary)
 
