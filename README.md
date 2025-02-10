@@ -1,4 +1,4 @@
-# Hi I'm Enzo, a recent EECSS grad from UC Berkeley!  
+# Hi I'm Enzo, a recent EECS grad from UC Berkeley!  
 
 ## 🤳 Connect with me!
 [<img align = "left" width = "50" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png">](https://www.linkedin.com/in/enzo-massyle/) [<img align = "left" width = "80" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png">](mailto:enzo.massyle@berkeley.edu)
